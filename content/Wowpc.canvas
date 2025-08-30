@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"d2d0c2361ffbb2c8","x":-600,"y":-264,"width":250,"height":60,"type":"text","text":""},
-		{"id":"fbdbd945f094f496","x":-177,"y":-464,"width":400,"height":400,"type":"file","file":"content/Wow.md"}
+		{"id":"fbdbd945f094f496","x":-177,"y":-464,"width":400,"height":400,"type":"file","file":"content/Wow.md"},
+		{"id":"d2d0c2361ffbb2c8","x":-540,"y":-264,"width":250,"height":60,"color":"2","type":"text","text":"This is not good"}
 	],
 	"edges":[]
 }
